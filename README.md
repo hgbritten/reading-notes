@@ -13,8 +13,10 @@
 
 
 #### This is some Code on my Page
-'''
-  python
+```python
 def hello_world():
   print('Hello World')
-'''
+```
+
+#### External Link
+[This is my link to a StarWars Page](https://www/starwars.com)
