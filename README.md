@@ -1,9 +1,9 @@
-# Growth as a Mindset
+# Growth as a Lifestyle
 
-## I want to keep myself in a growth mindset
+## How do I achieve that?
 - I can stay positive
-- I can continue to learn
-- I can encourage others
+- I can continue to learn new skills
+- I can reach out to others
 
 
 ### heading 3
