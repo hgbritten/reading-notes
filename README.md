@@ -1,4 +1,4 @@
-# This is my site.
+# Growth as a Mindset
 
 ## I want to keep myself in a growth mindset
 - I can stay positive
