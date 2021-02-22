@@ -20,3 +20,7 @@ def hello_world():
 
 #### External Link
 [This is my link to a StarWars Page](https://www.starwars.com/)
+
+#### Table of Contents
+
+[Reading Class 2](read02.md)
