@@ -19,4 +19,4 @@ def hello_world():
 ```
 
 #### External Link
-[This is my link to a StarWars Page](https://www/starwars.com)
+[This is my link to a StarWars Page](https://www.starwars.com/)
