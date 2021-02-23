@@ -8,6 +8,9 @@
 - I can reach out to others to get out of my own head and maybe help them with theirs
 
 
+## In the words of Tim Lake:
+> The truth is, I now don't travel back at all, not even for a day. I just try to live everyday as if I have deliberately come back to this one day, to enjoy it... As if it was the full, final day of my extraordinary, ordinary life.
+
 ### What drives me
 ![Image of Rainier](https://live.staticflickr.com/4434/37166620110_9138a66392_b.jpg)
 ![rock climbing](https://i.ytimg.com/vi/eI0nt3UEjlE/maxresdefault.jpg)
