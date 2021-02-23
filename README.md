@@ -23,7 +23,8 @@ def hello_world():
 
 #### My name is Hunter Britten. If you want to see more from me click [here](https://github.com/hgbritten)
 
-#### Table of Contents
 
-[Reading Class 2](read02.md)
-[Reading Class 3](read03.md)
+##### Table of Contents
+
+###### [Reading Class 2](read02.md)
+###### [Reading Class 3](read03.md)
