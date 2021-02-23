@@ -31,3 +31,5 @@
 #### Stashing - great to use when you are not ready to commit the changes you have made. Use git stash to stash them and git stash apply to see them again
 
 ##### To see your remotes by running the git remote command 
+
+[<==Back](README.md)
