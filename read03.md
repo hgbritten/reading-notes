@@ -79,4 +79,4 @@
 
 ## files with spaces will need ` and ' to keep them together
 
-## if you need to nullify the meaning of a character use (\) 
+## if you need to nullify the meaning of a character use a backslash! I can't even type one out here! 
