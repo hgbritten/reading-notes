@@ -26,5 +26,6 @@ def hello_world():
 
 ##### Table of Contents
 
+###### [Reading Class 1](read01.md)
 ###### [Reading Class 2](read02.md)
 ###### [Reading Class 3](read03.md)
