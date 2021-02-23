@@ -1,9 +1,11 @@
 # Growth as a Lifestyle
 
-## How do I achieve that?
-- I can stay positive
-- I can continue to learn new skills
-- I can reach out to others
+## A growth mindset is something that is not easy to achieve let alone stay in. At least in the current day and age. To be in a growth mindset I first have to be in the moment. Then I have to deliberately not determine my actions or judgements based on previous bias. If I think I have nothing to learn from a situation I will learn nothing from it. So I must constantly be a student of life or I will miss it. We never know when the thing that will save us will present itself to us. We just have to be ready when it does. 
+
+## How do I achieve living in the moment?
+- I can stay **positive**. This starts with little victories like morning exercise and making the bed.
+- I can continue to learn **_new_** skills or **_hone_** old ones. Being in _"the zone"_ is another way of being in the moment.
+- I can reach out to others to get out of my own head and maybe help them with theirs
 
 
 ### heading 3
@@ -18,8 +20,8 @@ def hello_world():
   print('Hello World')
 ```
 
-#### External Link
-[This is my link to a StarWars Page](https://www.starwars.com/)
+#### Profile page
+[More from me](https://github.com/hgbritten)
 
 #### Table of Contents
 
