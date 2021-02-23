@@ -18,8 +18,7 @@ def hello_world():
   print('Hello World')
 ```
 
-#### My name is Hunter Britten. If you want to see more from me click below
-[More from me](https://github.com/hgbritten)
+#### My name is Hunter Britten. If you want to see more from me click [here](https://github.com/hgbritten)
 
 #### Table of Contents
 
