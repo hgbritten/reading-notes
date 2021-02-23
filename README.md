@@ -9,7 +9,7 @@
 
 
 ### Heading to the top
-[Image of Rainier](https://live.staticflickr.com/4434/37166620110_9138a66392_b.jpg)
+![Image of Rainier](https://live.staticflickr.com/4434/37166620110_9138a66392_b.jpg)
 
 
 #### This is some Code on my Page
