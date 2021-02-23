@@ -7,10 +7,10 @@
 
 ##### Table of Contents
 
-###### [Growth as a Mindset](growthasamindset.md)
+- [Growth as a Mindset](growthasamindset.md)
 
-###### [Reading Class 1](read01.md)
+- [Reading Class 1](read01.md)
 
-###### [Choosing a Text editor](read02.md)
+- [Choosing a Text editor](read02.md)
 
-###### [Revisions and the Cloud](read03.md)
+- [Revisions and the Cloud](read03.md)
