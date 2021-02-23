@@ -8,9 +8,9 @@
 - I can reach out to others to get out of my own head and maybe help them with theirs
 
 
-### Heading to the top
+### What drives me
 ![Image of Rainier](https://live.staticflickr.com/4434/37166620110_9138a66392_b.jpg)
-
+![rock climbing](https://i.ytimg.com/vi/eI0nt3UEjlE/maxresdefault.jpg)
 
 #### This is some Code on my Page
 ```python
