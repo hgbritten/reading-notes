@@ -26,10 +26,14 @@
 
 #### When committing a file always use the git commit -m command and leave yourself a message ALWAYS or you might get lost forever to the timeless void
 
+
 #### When everything you need to commit is ready and committed use the git push origin main command the master command is now outdated
+
 
 #### Stashing - great to use when you are not ready to commit the changes you have made. Use git stash to stash them and git stash apply to see them again
 
+
 ##### To see your remotes by running the git remote command 
+
 
 [<== Back](README.md)

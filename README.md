@@ -16,3 +16,5 @@
 - [Choosing a Text editor](read02.md)
 
 - [Revisions and the Cloud](read03.md)
+
+- [Structuring](read04.md)
