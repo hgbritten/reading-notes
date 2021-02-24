@@ -1,8 +1,9 @@
 # Welcome to my Homepage
 
-## 
+## My name is Hunter Britten and I am pursuing a career in software development.
 
-#### My name is Hunter Britten. If you want to see more from me click [here](https://github.com/hgbritten)
+
+#### If you want to see more from me click [here](https://github.com/hgbritten)
 
 
 ##### Table of Contents
