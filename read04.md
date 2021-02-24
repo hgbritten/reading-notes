@@ -49,12 +49,19 @@
       - How do you indicate which version you are using? HTML4 used codes like center, font, and strike. All of these are now achieved with CSS instead. XHTML 1.0 had absolutely everything use a closing tag and all attributes had to be lowercase and placed in double quotes.
       - HTML5 is much more streamlined, but the thing you need to watch out for is making sure older computer users can use your website.
     - Identifying and grouping elements
-      - How do you add comments to your code? I just did it but you can't see can you. The &lt;
-      - Which element is necessary for the part of the page you are working on?
+      - How do you add comments to your code? I just did it but you can't see can you. The command is <!-- --> in HTML
+      - Which element is necessary for the part of the page you are working on? Depends on how you want it formatted. Blocking is good for setting something apart whereas inline is great for something you want to keep in the same paragraph or sentence.
     - Comments, meta info and iframes
-      - How do you add information about the web page using meta element?
-      - How do you embed a page within a page using iframes?
-      - How do you add characters like angled brackets and copyright symbols?
+      - How do you add information about the web page using meta element? You place the meta element in the head and fill it with all kinds of information and key words so that people who need to find it can.
+      - How do you embed a page within a page using iframes? The code <iframe> will let you cut a little hole in your page depending on how big you set it with the width and height adjusters. You then pick the page you want to display most commonly a google map and you are set to go.
+      - How do you add characters like angled brackets and copyright symbols? Special codes for each of the escape characters exist.
+      - < is &lt;
+      - > is &gt;
+      - & is &amp; or &#38;
+      - " is &quot;
+      - ` is &lsquo;
+      - ' is &rsquo;
+      - " or left quotes is &lqdquo; and right is &rdquo;
 
 
 
