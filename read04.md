@@ -38,7 +38,25 @@
 
 ## HTML5 Layout
 
-    - 
+    - Streamlining HTML
+      - Commands in HTML5 are much more intuitive now and require less work than previous iterations
+      - Previously everything was under the div command
+      - It makes everything in coding look that much cleaner
+
+## Extra Markup
+
+    - Specifying different versions of HTML
+      - How do you indicate which version you are using? HTML4 used codes like center, font, and strike. All of these are now achieved with CSS instead. XHTML 1.0 had absolutely everything use a closing tag and all attributes had to be lowercase and placed in double quotes.
+      - HTML5 is much more streamlined, but the thing you need to watch out for is making sure older computer users can use your website.
+    - Identifying and grouping elements
+      - How do you add comments to your code? I just did it but you can't see can you. The &lt;
+      - Which element is necessary for the part of the page you are working on?
+    - Comments, meta info and iframes
+      - How do you add information about the web page using meta element?
+      - How do you embed a page within a page using iframes?
+      - How do you add characters like angled brackets and copyright symbols?
+
+
 
 
 
