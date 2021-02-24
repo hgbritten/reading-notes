@@ -1,12 +1,13 @@
-# Welcome to my Homepage
+# My name is Hunter Britten and I am pursuing a career in software development.
+![image of me](stunnin.jpg)
+## Hobbies include, but not limited to:
+![image of me](rainier.jpg)
 
-## My name is Hunter Britten and I am pursuing a career in software development.
+## If you want to see more from me click [here](https://github.com/hgbritten)
 
 
-#### If you want to see more from me click [here](https://github.com/hgbritten)
+### Table of Contents
 
-
-##### Table of Contents
 
 - [Growth as a Mindset](growthasamindset.md)
 
