@@ -2,7 +2,16 @@
 ![image of me](stunnin.jpg)
 ## Hobbies include, but not limited to:
 ![image of me](rainier.jpg)
-
+    - Hiking
+    - Mountaineering
+    - Rock climbing 
+    - Snowboarding
+    - Motorcycles
+    - Gaming
+    - Spending time with my daughter
+    - Backpacking
+    - Watching bad movies
+    - Watching good movies
 ## If you want to see more from me click [here](https://github.com/hgbritten)
 
 
