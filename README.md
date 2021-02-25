@@ -33,3 +33,7 @@
 - [Dynamic web pages with JavaScript](read06a.md)
 
 - [Computer Architecture and Logic](read06b.md)
+
+- [Programming with JavaScript](read07.md)
+
+- [Operators and Loops](read08.md)
