@@ -96,6 +96,7 @@
     }
     var wallOne = calculateArea(3, 5);
     var wallTwo = calculateArea(8, 5);
+
 - This demonstrated how the same functions can be used to perform the same steps with different values
 
 ### Getting multiple values out of a function
