@@ -24,7 +24,7 @@
   - This is all surface level stuff. The browser uses quite a bit more code to make the words appear on the screen than just what we write. We are basically plugging digits into a calculator and it is giving us the answer
 
 ### JavaScript is found in the HTML
-  - Did you place the <script> below the <p>? That is where it will show up!
+  - Did you place the `<script> below the <p>? That is where it will show up!`
   - This can also affect the loading times of webpages
 
 ## Basics of JavaScript
