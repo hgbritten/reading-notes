@@ -68,6 +68,6 @@
 5.  Use a name to describe the kind of information that the variable stores. For example, firstName might be used to store a person's first name, lastName for their last name, and age for their age.
 6.  If your variable name is made up of more than one word, use a capital leter for the first leter of every word *after* the first word. For example, firstName rather than firstname (thisis referred to as camel case). You can also use an underscore between each word (you cannot use a dash).
 
-
+> information gathered via Duckett: JavaScript & jQuery, Pages 43-69
 
 [<== Back](README.md)
