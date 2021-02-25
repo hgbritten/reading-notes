@@ -29,3 +29,7 @@
 - [Structuring](read04.md)
 
 - [CSS](read05.md)
+
+- [Dynamic web pages with JavaScript](read06a.md)
+
+- [Computer Architecture and Logic](read06b.md)
