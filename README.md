@@ -1,6 +1,8 @@
 # My name is Hunter Britten and I am pursuing a career in software development.
 
 ## Code 201 Reading Notes
+
+## Code 102 Reading Notes
 ![image of me](stunnin.jpg)
 ## Hobbies include, but not limited to:
 ![image of me](rainier.jpg)
