@@ -1,4 +1,6 @@
 # My name is Hunter Britten and I am pursuing a career in software development.
+
+## Code 201 Reading Notes
 ![image of me](stunnin.jpg)
 ## Hobbies include, but not limited to:
 ![image of me](rainier.jpg)
@@ -15,7 +17,25 @@
 ## If you want to see more from me click [here](https://github.com/hgbritten)
 
 
-### Table of Contents
+### Table of Contents 201
+
+- [Day 1]()
+- [Day 2]()
+- [Day 3]()
+- [Day 4]()
+- [Day 5]()
+- [Day 6]()
+- [Day 7]()
+- [Day 8]()
+- [Day 9]()
+- [Day 10]()
+- [Day 11]()
+- [Day 12]()
+- [Day 13]()
+- [Day 14]()
+- [Day 15]()
+
+### Table of Contents 102
 
 
 - [Growth as a Mindset](growthasamindset.md)
