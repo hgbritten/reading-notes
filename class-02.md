@@ -20,6 +20,8 @@ p {
 
 ### Basic JS Instructions
 - Each individual step or instruction is known as a statement and statements end in a semicolon. 
+
+
 ```
 var today = new Date();
 var hourNow = today.getHours();
