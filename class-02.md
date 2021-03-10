@@ -1,5 +1,5 @@
 # Readings: Basics of HTML, CSS & JS
-<!--These notes come from my previous notes taken in 102-->
+<!--Some of these notes come from my previous notes taken in 102-->
 ## HTML
 
 ### Text
