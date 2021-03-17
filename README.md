@@ -7,6 +7,7 @@
 ## Hobbies include, but not limited to:
 ![image of me](rainier.jpg)
 ![image of me](rockclimbing.jpg)
+
     - Hiking
     - Mountaineering
     - Rock climbing 
