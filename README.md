@@ -6,7 +6,10 @@
 ![image of me](stunnin.jpg)
 ## Hobbies include, but not limited to:
 ![image of me](rainier.jpg)
+#### On Mailbox Peak
 ![image of me](rockclimbing.jpg)
+#### Sport climbing a 5.10a at The Sunshine Wall
+
 
     - Hiking
     - Mountaineering
