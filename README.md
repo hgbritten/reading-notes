@@ -8,7 +8,7 @@
 ![image of me](rainier.jpg)
 #### On Mailbox Peak
 ![image of me](rockclimbing.jpg)
-#### Sport climbing a 5.10a at The Sunshine Wall
+#### Sport climbing a 5.10d at the Sunshine Wall
 
 
     - Hiking
