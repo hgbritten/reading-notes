@@ -6,18 +6,18 @@
 
 
 ### Different kinds of form controls
-    - Adding text
+- Adding text
       - Text input
       - Password input
       - Text area
-    - Making Choices
+- Making Choices
       - Radio buttons
       - Checkboxes
       - Drop-down boxes
-    - Submitting forms
+- Submitting forms
       - Submit buttons
       - Image buttons
-    - Uploading files
+- Uploading files
       - File upload
 
 ### How forms work
@@ -26,31 +26,31 @@
     3. Server process information
     4. Server creates new page to send back
 
-    - A form may have several form controls, each gathering different info. The server needs to know which piece of inputted data corresponds with which form element.
+- A form may have several form controls, each gathering different info. The server needs to know which piece of inputted data corresponds with which form element.
 
 ```
 username=Ivy
 ```
 
-    - In this example username is the name and Ivy is the value
+- In this example username is the name and Ivy is the value
 
-#### <form> structure
-    - action
-    - method
-    - id
+#### `<form>` structure
+- action
+- method
+- id
 
-#### text <input>
-    - type="text"
-    - name
-    - size
-    - maxlength
+#### text `<input>`
+- type="text"
+- name
+- size
+- maxlength
 
-#### password <input>
-    - type="password"
-    - name
-    - size, maxlength
+#### password `<input>`
+- type="password"
+- name
+- size, maxlength
 
-#### <textarea> pops out the image below
+#### `<textarea>` pops out the image below
   
 ```
 <form action="example.com">
@@ -62,51 +62,51 @@ username=Ivy
 [image](!textarea.PNG)
 
 #### Radio button
-    - type="radio"
-    - name
-    - value
-    - checked
+- type="radio"
+- name
+- value
+- checked
 
 #### Checkbox
-    - type="checkbox"
-    - name
-    - value
-    - checked
+- type="checkbox"
+- name
+- value
+- checked
 
 #### Drop down list box
-    - <select>
-    - name
-    - <option>
-    - value
-    - selected
+- `<select>`
+- name
+- `<option>`
+- value
+- selected
 
 #### Multiple select box
-    - <select>
-    - size
-    - multiple
+- `<select>`
+- size
+- multiple
 
 #### File input box
-    - <input>
-    - type="file"
+- `<input>`
+- type="file"
 
 #### Submit button
-    - type="submit"
-    - name
-    - value
+- `type="submit"`
+- name
+- value
 
 #### Image button
-    - <input type="image">
+- `<input type="image">`
 
 #### Button & hidden controls
-    - <button>
-    - <input type="hidden">
+- `<button>`
+- `<input type="hidden">`
 
 #### Labeling form controls
-    - <label for="gender">
+- `<label for="gender">`
 
 #### Grouping form elements
-    - <fieldset>
-    - <legend>
+- `<fieldset>`
+- `<legend>`
 
 ## AND MANY MORE
 
@@ -114,10 +114,10 @@ username=Ivy
 
 ### Specifying bullet point styles
 #### uls
-      - none
-      - disc
-      - circle
-      - square
+- none
+- disc
+- circle
+- square
 
 ```
 In CSS
@@ -127,12 +127,12 @@ ul {
 ```
 
 #### ols
-      - decimal
-      - decimal-leading-zero
-      - lower-alpha
-      - upper-alpha
-      - lower-roman
-      - upper-roman
+- decimal
+- decimal-leading-zero
+- lower-alpha
+- upper-alpha
+- lower-roman
+- upper-roman
 
 ```
 In CSS
@@ -145,6 +145,7 @@ ol {
 
 #### Images!
 
+
 ```
 In CSS
 ul {
@@ -152,21 +153,23 @@ ul {
 }
 ```
 
+
 #### Positions
-      - outside
-      - inside
+- outside
+- inside
 
 #### Table properties
-    - width
-    - padding
-    - text-transform
-    - letter-spacing, font-size
-    - border-top, border-bottom
-    - text-align
-    - background-color
-    - :hover to highlight!
+- width
+- padding
+- text-transform
+- letter-spacing, font-size
+- border-top, border-bottom
+- text-align
+- background-color
+- :hover to highlight!
 
 #### Border on empty cells and cell gaps
+
 
 ```  
 table.one {
@@ -174,30 +177,31 @@ table.one {
     border-spacing: 5px 15px;}
 ```
 
+
 ### Changing the apperance of form elements
 
 #### Styling text inputs
-    - font-size
-    - color
-    - background-color
-    - border
-    - border-radius
-    - :focus - changes the background color of the text when it is being used kind of like :hover
-    - background-image
+- font-size
+- color
+- background-color
+- border
+- border-radius
+- :focus - changes the background color of the text when it is being used kind of like :hover
+- background-image
 
 #### Styling submit buttons
-    - text shadow
+- text shadow
 
 #### Cursor styles
-    - auto
-    - crosshair
-    - default
-    - pointer
-    - move
-    - text
-    - wait
-    - help
-    - url("cursor.gif");
+- auto
+- crosshair
+- default
+- pointer
+- move
+- text
+- wait
+- help
+- url("cursor.gif");
 
 ```
 a {
