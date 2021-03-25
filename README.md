@@ -41,7 +41,8 @@
 - [Day 11](class-11.md)
 - [Day 12](class-12.md)
 - [Day 13](class-13.md)
-- [Day 14](class-14.md)
+- [Day 14a](class-14a.md)
+- [Day 14b](class-14b.md)
 - [Day 15](class-15.md)
 
 ### Table of Contents 102
