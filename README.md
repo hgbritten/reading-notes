@@ -1,8 +1,8 @@
-# My name is Hunter Britten and I am pursuing a career in software development.
+# Reading Notes
 
-## Code 201 Reading Notes
+- My name is Hunter Britten and I am pursuing a career in software development.
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 ![image of me](stunnin.jpg)
 ## Hobbies include, but not limited to:
 ![image of me](rainier.jpg)
@@ -23,10 +23,14 @@
     - Watching good movies
 
 
-## If you want to see more from me click [here](https://github.com/hgbritten)
+### If you want to see more from me click [here](https://github.com/hgbritten)
 
 
-### Table of Contents 201
+## Code 401 - Advanced Software Development
+
+## Code 301 - Intermediate Software Development
+
+## Code 201 - Foundations of Software Development
 
 - [Day 1](class-01.md)
 - [Day 2](class-02.md)
